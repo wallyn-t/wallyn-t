@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Thibault WALLYN
+# About Me
+- 👋 Hi, I’m Thibault WALLYN, 25 and French living in Lille.
 
-
-- 👀 I’m interested in web development, data analysis, tech in general and passionate about volleyball.
-
-
+## My work
 -  I work as data analyst in the medical information department of a hospital in the north of France.
+<details>
+<summary>My everyday tools are : </summary> 
+Talend for Data Integration, SQL (PostgreSQL), R and sometimes Python.
+</details>
+
+
+## My hobbies
+- 👀 I’m interested in web development, data analysis, tech in general and passionate about volleyball.
 
 
 - 🌱 I’m a passionate beginner web developer
@@ -27,8 +33,7 @@
 
 - I'm also praticing a famous Content Managment System (CMS): Wordpress
 
-
-- 📫 How to reach me :
+## 📫 How to reach me :
 -  [Linkedin](https://www.linkedin.com/in/thibault-wallyn-a43095267/)
 -  [Instagram](https://www.instagram.com/tibo_devweb)
 
