@@ -30,7 +30,7 @@
 
 - 📫 How to reach me :
 -  [Linkedin](https://www.linkedin.com/in/thibault-wallyn-a43095267/)
--  [Instagram](https://www.instagram.com/tibo_devweb/)
+-  [Instagram](https://www.instagram.com/tibo_devweb)
 
 <!---
 wallyn-t/wallyn-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
