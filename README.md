@@ -7,7 +7,10 @@
 <summary>My everyday tools are : </summary> 
 Talend for Data Integration (DI), SQL (PostgreSQL), R and sometimes Python.
 </details>
+
+
 Talend for DI and SQL are my main tools.
+
 
 <details>
 <summary>Here are some main fonctions I use:</summary>
