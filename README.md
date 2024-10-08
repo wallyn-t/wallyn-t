@@ -8,8 +8,9 @@
 Talend for Data Integration (DI), SQL (PostgreSQL), R and sometimes Python.
 </details>
 Talend for DI and SQL are my main tools.
+
 <details>
-<summary>Here are some main fonctions I use:</summary>summary>
+<summary>Here are some main fonctions I use:</summary>
 <ul>
   <li>Make database connections, commits and log information about jobs (chronometer, java print ...)</li>
   <li>Integrate data from PostgreSQL tables/delimited files</li>
@@ -20,8 +21,7 @@ Talend for DI and SQL are my main tools.
   <li>Send mails</li>
   <li>Create Datawarehouse using linked tables</li>  
 </ul>
-  
-</details>details>
+</details>
 
 
 ## My hobbies
