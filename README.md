@@ -17,7 +17,7 @@ Talend for DI and SQL are my main tools.
   <li>Filter and sort data using Talend components (tMap, tFilter, tSort)</li>
   <li>Use aggregate functions to make reports</li>
   <li>Rely jobs</li>
-  <li>Use Google Drive files</li>*
+  <li>Use Google Drive files</li>
   <li>Send mails</li>
   <li>Create Datawarehouse using linked tables</li>  
 </ul>
