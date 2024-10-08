@@ -5,8 +5,23 @@
 -  I work as data analyst in the medical information department of a hospital in the north of France.
 <details>
 <summary>My everyday tools are : </summary> 
-Talend for Data Integration, SQL (PostgreSQL), R and sometimes Python.
+Talend for Data Integration (DI), SQL (PostgreSQL), R and sometimes Python.
 </details>
+Talend for DI and SQL are my main tools.
+<details>
+<summary>Here are some main fonctions I use:</summary>summary>
+<ul>
+  <li>Make database connections, commits and log information about jobs (chronometer, java print ...)</li>
+  <li>Integrate data from PostgreSQL tables/delimited files</li>
+  <li>Filter and sort data using Talend components (tMap, tFilter, tSort)</li>
+  <li>Use aggregate functions to make reports</li>
+  <li>Rely jobs</li>
+  <li>Use Google Drive files</li>*
+  <li>Send mails</li>
+  <li>Create Datawarehouse using linked tables</li>  
+</ul>
+  
+</details>details>
 
 
 ## My hobbies
